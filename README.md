@@ -1,0 +1,1 @@
+This repository documents my daily progress as I re-strengthen my Python fundamentals and build consistent coding habits. Even though I’ve worked with Python before, this challenge is a way for me to sharpen my skills, fill in gaps, and keep my GitHub active with meaningful practice.
