@@ -310,8 +310,3 @@ fruits = ["banana", "orange", "mango", "lemon"]
 
 for i in range(len(fruits) -1, -1, -1):
     print(fruits[i])
-
-#3 - Go to the data folder and use the countries_data.py file
-#i. What are the total number of languages in the data
-#ii. Find the ten most spoken languages from the data
-#iii. Find the 10 most populated countries in the world
